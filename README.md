@@ -1,15 +1,24 @@
-# 💫 About Me:
+# About Me ℹ️
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    👋 Hi, I'm Aneesh K<br>
-    👀 I'm interested in Data Science and Machine Learning<br>
-    🌱 I'm currently learning Data Structures and Algorithms (DSA)<br>
-    💞️ I'm looking to collaborate on projects related to Data Science, Machine Learning, or programming challenges<br>
-    📫 You can reach me at aneeshbhatkodavoor@gmail.com
-  </div>
-  <img src="https://github.com/user-attachments/assets/151304e8-7ee8-486a-8f85-65242817f9c8" alt="coder" style="width: 200px; margin-left: 20px;">
-</div>
+<table>
+  <tr>
+    <td width="70%">
+      <h2>Hi there! 👋</h2>
+      <p>
+        I'm <b>Aneesh K</b>, a passionate <b>Data Science and Machine Learning enthusiast</b>. My journey involves:
+        <ul>
+          <li>🌱 Currently learning Data Structures and Algorithms (DSA)</li>
+          <li>💞️ Looking to collaborate on projects related to Data Science, Machine Learning, or programming challenges</li>
+          <li>👀 Exploring new technologies and solving complex problems</li>
+          <li>📫 You can reach me at aneeshbhatkodavoor@gmail.com</li>
+        </ul>
+      </p>
+    </td>
+    <td width="30%">
+      <img src="https://github.com/user-attachments/assets/151304e8-7ee8-486a-8f85-65242817f9c8" alt="coder" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_aneesh_bhat_164/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesh-bhat-127a08256) 
