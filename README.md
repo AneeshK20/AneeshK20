@@ -1,69 +1,3 @@
-
-Library
-Projects
-
-
-Display github stats
-Private
-
-for github readme
-
-I'll create a React component that displays your GitHub README content in a more structured and visually appealing way. This component will include sections for your introduction, social links, tech stack, and GitHub stats.
-
-i want it in md format
-
-I'll provide you with a Markdown version of your GitHub stats section that you can use in your GitHub README. This format will display the stats side by side on GitHub's web interface while still being readable in plain text.
-
-
-This Markdown code does the following:
-
-It uses a header for the GitHub Stats section.
-It wraps the images in a <div> with align="center" to center-align the content.
-Each stat is displayed as an image with a width of 400 pixels. This width allows two images to sit side-by-side on most screens while viewing the README on GitHub's web interface.
-The images are stacked vertically in the Markdown, but they will appear side-by-side (or in a grid layout) when rendered on GitHub, depending on the screen size.
-You can add this section to your existing README.md file. Here's how your complete README might look with this addition:
-
-
-This Markdown will create a README that includes all your original content along with the GitHub stats displayed in a more visually appealing layout. The stats should appear side-by-side or in a grid layout when viewed on GitHub's web interface, while still being readable in plain text format.
-
-💫 About Me:
-👋 Hi, I’m Aneesh K<br>👀 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning Data Structures and Algorithms (DSA)<br>💞️ I’m looking to collaborate on projects related to Data Science, Machine Learning, or programming challenges<br>📫 You can reach me at aneeshbhatkodavoor@gmail.com
-
-🌐 Socials:coder
-InstagramLinkedIn
-
-💻 Tech Stack:
-C++JavaPythonHTML5MarkdownAnacondaCanvaNumPyPandasMatplotlibTensorFlowGitHubGit
-
-📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stat+*s.vercel.app/api?username=AneeshK20&theme=aura&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AneeshK20&theme=aura&hide_border=true" alt="GitHub Streak Stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshK20&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" /> </div>
-can you format the gif side ways about
-
-I'll reformat your README to place the GIF sideways next to the "About Me" section and fix the GitHub Stats image link. Here's the updated Markdown for your GitHub README:
-
-
-Here are the changes I made:
-
-I wrapped the "About Me" section and the GIF in a flex container to display them side by side.
-I adjusted the GIF's width to 200px and added a left margin for spacing.
-I fixed the broken link in the GitHub Stats section by removing the extra '+*' characters.
-I corrected the Instagram and LinkedIn profile links to direct to the actual profiles instead of including "https://" twice.
-This layout will display your "About Me" section next to the GIF on GitHub's web interface while maintaining readability in plain text. The GitHub Stats section remains unchanged in its layout but now has the correct image link.
-
-Remember that GitHub's Markdown renderer has some limitations with CSS, so the exact layout might vary slightly on the GitHub website. However, this structure should provide a good approximation of the desired layout.
-
-Need more messages? Get higher limits with Premium.
-Upgrade Plan
-
-Chat Input
-Ask a follow up…
-
-v0 may make mistakes. Please use with discretion.
-
-GitHub README
-Latest
-
-
 # 💫 About Me:
 
 <div style="display: flex; align-items: center;">
@@ -94,4 +28,3 @@ Latest
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshK20&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" />
 
 </div>
-Private v0 Chat – v0 by Vercel
