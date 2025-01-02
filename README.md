@@ -2,7 +2,8 @@
 👋 Hi, I’m Aneesh K<br>👀 I’m interested in Data Science and Machine Learning<br>🌱 I’m currently learning Data Structures and Algorithms (DSA)<br>💞️ I’m looking to collaborate on projects related to Data Science, Machine Learning, or programming challenges<br>📫 You can reach me at aneeshbhatkodavoor@gmail.com
 
 
-## 🌐 Socials:![giphy](https://github.com/user-attachments/assets/ee5a0ab0-434d-4194-aedd-a08539fc8888)
+## 🌐 Socials:![coder](https://github.com/user-attachments/assets/151304e8-7ee8-486a-8f85-65242817f9c8)
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k_aneesh_bhat_164/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aneesh-bhat-127a08256) 
 
